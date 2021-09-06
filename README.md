@@ -3,4 +3,4 @@ build on ubuntu
 
 To run containers in the background (detach from cli)_:
 
-docker-compose up -d
+```docker-compose up -d```
